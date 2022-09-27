@@ -1,0 +1,15 @@
+body {
+    font-size: 15px;
+    line-height: 25px;
+    background-color:lightyellow;
+}
+.div {
+    width: 1200px;
+    margin: 0 auto;
+}
+.name {
+    padding-left: 35px;
+}
+.code {
+    background-color:antiquewhite;
+}
